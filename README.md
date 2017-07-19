@@ -1,7 +1,7 @@
 # Arduino-Practice
 UWC Arduino Practice files
 ## Team Members
-Orion Creston
+Creston and Orion
 ## Tools
 Genuino 101, iRobot Roomba 600.
 ## Contents
